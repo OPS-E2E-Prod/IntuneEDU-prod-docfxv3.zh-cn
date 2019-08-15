@@ -1,5 +1,6 @@
 {
   "build": {
+    "markdownEngineName": "markdig",
     "content": [
       {
         "files": [
@@ -32,14 +33,12 @@
       "product_feedback_displaytext": "Intune Feedback",
       "product_feedback_url": "https://microsoftintune.uservoice.com/forums/291681-ideas?category_id=190729",
       "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/Intunedocs",
-      "feedback_product_url": "https://microsoftintune.uservoice.com/forums/291681-ideas?category_id=190729"  
+      "feedback_github_repo": "MicrosoftDocs/Intunedocs.zh-cn",
+      "feedback_product_url": "https://microsoftintune.uservoice.com/forums/291681-ideas?category_id=190729",
+      "disable_contribution_on_translation_quality": ["MT"]
     },
-
-
     "fileMetadata": {},
     "template": [],
-    "dest": "IntuneEDU",
-    "markdownEngineName": "markdig"
+    "dest": "IntuneEDU"
   }
 }
