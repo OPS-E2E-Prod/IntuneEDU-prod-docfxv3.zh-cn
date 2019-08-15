@@ -1,0 +1,85 @@
+---
+title: 什么是 Intune for Education？
+titleSuffix: Intune for Education
+description: 了解关于 Intune for Education 和如何如何管理 iOS 和 Windows 设备在教育环境中。
+keywords: ''
+author: lenewsad
+ms.author: lanewsad
+manager: dougeby
+ms.date: 01/03/2019
+ms.topic: article
+ms.prod: ''
+ms.service: microsoft-intune
+ms.technology: ''
+ms.assetid: c66e1700-aac0-44c0-af89-d5d9d4fac9ae
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: 6e85a1c80c3a74735b716dbaa553baa06bbe7f3f
+ms.sourcegitcommit: 52d0b7bf230bba5182057e4875ee507843a906d6
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62146833"
+---
+# <a name="what-is-intune-for-education"></a><span data-ttu-id="5fdc8-103">什么是 Intune for Education？</span><span class="sxs-lookup"><span data-stu-id="5fdc8-103">What is Intune for Education?</span></span>
+
+<span data-ttu-id="5fdc8-104">Microsoft Intune for Education 是面向学校的基于云的移动设备管理 (MDM) 服务。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-104">Microsoft Intune for Education is a cloud-based, mobile device management (MDM) service for schools.</span></span> <span data-ttu-id="5fdc8-105">它可帮助教师和学生保持课堂设备上高效工作，并可学校数据的安全。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-105">It helps your teachers and students stay productive on classroom devices, and keeps school data secure.</span></span> 
+
+<span data-ttu-id="5fdc8-106">使用 Intune for Education 可以：</span><span class="sxs-lookup"><span data-stu-id="5fdc8-106">With Intune for Education you can:</span></span>
+* <span data-ttu-id="5fdc8-107">管理桌面和移动设备的学生用于访问课堂数据。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-107">Manage the desktop and mobile devices students use to access classroom data.</span></span>
+* <span data-ttu-id="5fdc8-108">配置和分配的应用的学生在课堂中使用。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-108">Configure and assign the apps students use in the classroom.</span></span>
+* <span data-ttu-id="5fdc8-109">控制学生和教师如何访问和共享课堂信息。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-109">Control how students and teachers access and share classroom information.</span></span>
+* <span data-ttu-id="5fdc8-110">应用于设备和应用学校安全要求。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-110">Apply school security requirements to devices and apps.</span></span>
+
+<span data-ttu-id="5fdc8-111">Intune for Education 门户设计为包括仅设置和管理 iOS 和 Windows 所需的工作流学校的设备。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-111">The Intune for Education portal is designed to include only the settings and workflows you need to manage iOS and Windows school devices.</span></span> <span data-ttu-id="5fdc8-112">在门户中，可以查看和采取措施对你的设备、 用户和应用清单。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-112">From the portal, you can view and take action on your device, user, and app inventory.</span></span> <span data-ttu-id="5fdc8-113">Intune for Education 还支持 Take a Test 应用，它允许教师评估直接从课堂设备的学生进度。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-113">Intune for Education also supports the Take a Test app, which allows teachers to assess student progress directly from classroom devices.</span></span>  
+
+## <a name="sign-up-for-intune-for-education"></a><span data-ttu-id="5fdc8-114">注册 Intune 教育版</span><span class="sxs-lookup"><span data-stu-id="5fdc8-114">Sign up for Intune for Education</span></span>
+<span data-ttu-id="5fdc8-115">如果你尚不存在已使用 Intune for Education 帐户注册，了解[入门](https://docs.microsoft.com/intune/account-sign-up)。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-115">If you're not already signed up with an Intune for Education account, learn [how to get started](https://docs.microsoft.com/intune/account-sign-up).</span></span> <span data-ttu-id="5fdc8-116">本文适用于准备好注册 Intune 订阅其学校的系统管理员。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-116">The article is for system administrators who are ready to sign up their school for an Intune subscription.</span></span> 
+
+## <a name="manually-add-users-to-you-intune-subscription"></a><span data-ttu-id="5fdc8-117">手动将用户添加到你的 Intune 订阅</span><span class="sxs-lookup"><span data-stu-id="5fdc8-117">Manually add users to you Intune subscription</span></span>
+<span data-ttu-id="5fdc8-118">如果您不使用 Microsoft 学校数据同步 (SDS) 服务导入学生和教师的记录，则必须[手动将用户添加到你的 Intune 订阅](https://docs.microsoft.com/intune/users-add)。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-118">If you're not using the Microsoft School Data Sync (SDS) service to import student and teacher records, you must [manually add users to your Intune subscription](https://docs.microsoft.com/intune/users-add).</span></span> <span data-ttu-id="5fdc8-119">通过 Azure 门户或 Office 365 门户，可以添加学生和教师。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-119">Students and teachers can be added through the Azure portal or through the Office 365 portal.</span></span> <span data-ttu-id="5fdc8-120">用户设置时，您还需要授予管理员权限。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-120">At the time of user setup, you'll also want to grant admin permissions.</span></span> 
+
+## <a name="supported-os-and-browsers"></a><span data-ttu-id="5fdc8-121">支持的 OS 和浏览器</span><span class="sxs-lookup"><span data-stu-id="5fdc8-121">Supported OS and browsers</span></span>
+<span data-ttu-id="5fdc8-122">完整的 Intune 管理服务支持多个设备操作系统。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-122">The full Intune management service supports many device operating systems.</span></span> <span data-ttu-id="5fdc8-123">对于学校设置，同样的问题，我们建议使用 Intune for Education。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-123">For school settings, like yours, we recommend using Intune for Education.</span></span> <span data-ttu-id="5fdc8-124">它的门户设置到专门支持 Windows 10 和 iOS 学校的设备。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-124">Its portal is set up to specifically support Windows 10 and iOS school devices.</span></span>  
+
+<span data-ttu-id="5fdc8-125">若要查看受 Intune 支持 web 浏览器和操作系统的完整列表，请参阅[支持的操作系统和浏览器](https://docs.microsoft.com/intune/supported-devices-browsers)Microsoft Intune 文档中。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-125">To view a complete list of Intune-supported web browsers and operating systems, see [Supported operating systems and browsers](https://docs.microsoft.com/intune/supported-devices-browsers) in the Microsoft Intune documentation.</span></span>  
+
+## <a name="configuring-your-intune-for-education-tenant"></a><span data-ttu-id="5fdc8-126">配置你的 Intune for Education 租户</span><span class="sxs-lookup"><span data-stu-id="5fdc8-126">Configuring your Intune for Education tenant</span></span>
+<span data-ttu-id="5fdc8-127">*租户*指的是 Intune for Education 的组织的实例。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-127">*Tenant* refers to your organization's instance of Intune for Education.</span></span> <span data-ttu-id="5fdc8-128">租户级别上的设置会影响您组织的 Intune 订阅。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-128">Settings at a tenant-level affect your organization's Intune subscription.</span></span> <span data-ttu-id="5fdc8-129">同时具有 Intune for Education**常规**设置和**iOS 设备管理**租户设置。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-129">Intune for Education has both **General** settings and **iOS Device Management** tenant settings.</span></span> 
+
+### <a name="general-settings"></a><span data-ttu-id="5fdc8-130">常规设置</span><span class="sxs-lookup"><span data-stu-id="5fdc8-130">General settings</span></span>
+<span data-ttu-id="5fdc8-131">**常规**租户设置页面要求您的学校提供 IT 联系信息和资源信息。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-131">The **General** page of tenant settings asks for your school's IT contact and resource information.</span></span> <span data-ttu-id="5fdc8-132">此信息大多数是可选的但可用于为学生和教职员工提供 IT 点联系。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-132">Most of this information is optional but is useful to provide an IT point of contact for students and faculty.</span></span>  <span data-ttu-id="5fdc8-133">有关编辑常规设置的详细信息，请参阅[编辑常规设置](edu-tenant-general-settings.md)。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-133">For more information about editing general settings, see [Edit general settings](edu-tenant-general-settings.md).</span></span> 
+
+### <a name="ios-device-management-settings"></a><span data-ttu-id="5fdc8-134">iOS 设备管理设置</span><span class="sxs-lookup"><span data-stu-id="5fdc8-134">iOS Device Management settings</span></span>  
+<span data-ttu-id="5fdc8-135">**iOS 设备管理**设置寻求有关 Apple 帐户的信息。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-135">**iOS Device Management** settings ask for information about your Apple accounts.</span></span> <span data-ttu-id="5fdc8-136">这些设置是必需的组织想要管理其在 Intune 中的 iOS 设备。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-136">These settings are a requirement for organizations who wish to manage their iOS devices in Intune.</span></span> <span data-ttu-id="5fdc8-137">配置适用于 iOS 的设备管理之前, 无法查看或管理 iOS 相关 Intune for Education 门户中的设置。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-137">Until you configure device management for iOS, you can't see or manage iOS-related settings in the Intune for Education portal.</span></span>
+
+<span data-ttu-id="5fdc8-138">有关设置你的设备的 iOS 设备管理设置的详细信息，请参阅[设置 iOS 设备管理](setup-ios-device-management.md)。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-138">For more information about setting up your device's iOS device management settings, see [Setup iOS device management](setup-ios-device-management.md).</span></span>
+
+<span data-ttu-id="5fdc8-139">仅[委派管理员](group-admin-delegate.md)Intune for Education 中允许查看和更改租户设置。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-139">Only [delegated admins](group-admin-delegate.md) in Intune for Education are allowed to see and change tenant settings.</span></span>
+
+## <a name="does-intune-for-education-work-on-shared-devices"></a><span data-ttu-id="5fdc8-140">共享设备可以处理 Intune for Education？</span><span class="sxs-lookup"><span data-stu-id="5fdc8-140">Does Intune for Education work on shared devices?</span></span>  
+<span data-ttu-id="5fdc8-141">Intune for Education 使用共享设备，并在一台设备上支持多个用户的管理。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-141">Intune for Education works with shared devices, and supports the management of multiple users on a single device.</span></span> <span data-ttu-id="5fdc8-142">共享设备的学生可能有不同的应用和针对它们的设置。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-142">Students who share a device may have different apps and settings targeted to them.</span></span> <span data-ttu-id="5fdc8-143">当学生登录到设备时，他们将看到的应用和专门为其分配的设置。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-143">When students sign in to a device, they'll see only the apps and settings assigned specifically to them.</span></span>  
+
+## <a name="compatible-resources-and-tools"></a><span data-ttu-id="5fdc8-144">兼容的资源和工具</span><span class="sxs-lookup"><span data-stu-id="5fdc8-144">Compatible resources and tools</span></span>
+
+<span data-ttu-id="5fdc8-145">将有权访问其他 Microsoft 管理工具，例如：</span><span class="sxs-lookup"><span data-stu-id="5fdc8-145">You'll have access to other Microsoft management tools such as:</span></span>
+* <span data-ttu-id="5fdc8-146">在 Azure 门户中，Microsoft Intune[完整的设备、 应用和用户管理体验](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)</span><span class="sxs-lookup"><span data-stu-id="5fdc8-146">Microsoft Intune in the Azure portal, the [full device, app, and user management experience](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)</span></span>
+* <span data-ttu-id="5fdc8-147">Microsoft Azure Active Directory (Azure AD)、[标识和访问管理系统](https://docs.microsoft.com/azure/active-directory/active-directory-administer)</span><span class="sxs-lookup"><span data-stu-id="5fdc8-147">Microsoft Azure Active Directory (Azure AD), [the identity and access management system](https://docs.microsoft.com/azure/active-directory/active-directory-administer)</span></span>
+* [<span data-ttu-id="5fdc8-148">Microsoft 学校数据同步</span><span class="sxs-lookup"><span data-stu-id="5fdc8-148">Microsoft School Data Sync</span></span>](https://sds.microsoft.com)
+* [<span data-ttu-id="5fdc8-149">Office 365 教育版</span><span class="sxs-lookup"><span data-stu-id="5fdc8-149">Office 365 for  Education</span></span>](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14)
+
+<span data-ttu-id="5fdc8-150">使用 Intune for Education 与[Microsoft 教育](https://docs.microsoft.com/education/#pivot=itpro)这样的工具：</span><span class="sxs-lookup"><span data-stu-id="5fdc8-150">Use Intune for Education with [Microsoft Education](https://docs.microsoft.com/education/#pivot=itpro) tools such as:</span></span>
+
+- [<span data-ttu-id="5fdc8-151">Office 365 教育版</span><span class="sxs-lookup"><span data-stu-id="5fdc8-151">Office 365 for Education</span></span>](https://support.office.com/article/Set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa)
+- [<span data-ttu-id="5fdc8-152">Windows 10 教育版</span><span class="sxs-lookup"><span data-stu-id="5fdc8-152">Windows 10 for Education</span></span>](https://docs.microsoft.com/education/windows)
+- [<span data-ttu-id="5fdc8-153">Microsoft Store for Education</span><span class="sxs-lookup"><span data-stu-id="5fdc8-153">Microsoft Store for Education</span></span>](https://docs.microsoft.com/microsoft-store/index?toc=/microsoft-store/education/toc.json)
+- [<span data-ttu-id="5fdc8-154">Minecraft:教育版</span><span class="sxs-lookup"><span data-stu-id="5fdc8-154">Minecraft: Education Edition</span></span>](https://docs.microsoft.com/education/windows/school-get-minecraft)
+
+> [!VIDEO https://www.youtube.com/embed/ukrnCwcLvV8]
+
+## <a name="get-started-with-intune-for-education"></a><span data-ttu-id="5fdc8-155">开始使用 Intune for Education</span><span class="sxs-lookup"><span data-stu-id="5fdc8-155">Get started with Intune for Education</span></span>
+<span data-ttu-id="5fdc8-156">使用 Microsoft 学校数据同步的学生记录导入。使用学校电脑应用设置配置学校的 Windows 设备或登录到[Intune for Education](https://intuneeducation.portal.azure.com)设置适用于 iOS 设备的 Apple 管理。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-156">Import student records with Microsoft School Data sync. Configure school's Windows devices with the Set up School PCs app, or sign in to [Intune for Education](https://intuneeducation.portal.azure.com) to set up Apple management for your iOS devices.</span></span>
+
+<span data-ttu-id="5fdc8-157">从[仪表板](how-do-i-customize-my-dashboard.md)，启动[快速配置](Express-configuration-intune-edu.md)。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-157">From the [dashboard](how-do-i-customize-my-dashboard.md), launch [Express Configuration](Express-configuration-intune-edu.md).</span></span> <span data-ttu-id="5fdc8-158">选择用户或设备组 (如学生、 教师，或_第二层的计算机实验室_) 和开始分配应用和设置。</span><span class="sxs-lookup"><span data-stu-id="5fdc8-158">Select a user or device group (such as students, teachers, or _2nd floor Computer Lab_) and start assigning apps and settings.</span></span>
+
+![一次登录到 Intune for Education 的登陆页面的屏幕截图。](./media/dashboard-001-landing-page.png)
