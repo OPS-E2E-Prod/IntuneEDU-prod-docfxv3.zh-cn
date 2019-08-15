@@ -22,14 +22,17 @@
   "sync_notification_subscribers": [],
   "branches_to_filter": [
     "live-sxs",
-    "master-sxs"
+    "master-sxs",
+    "e2e-local"
   ],
   "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/IntuneEdu",
   "git_repository_branch_open_to_public_contributors": "live",
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
-  "contribution_branch_mappings": {},
+  "contribution_branch_mappings": {
+    "e2e-local": "e2e-local-sxs"
+  },
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
